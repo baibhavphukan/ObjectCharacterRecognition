@@ -1,5 +1,5 @@
-# ObjectCharacterRecognition
-Implemented Object Character Recognition using Maximum Correlation algorithm in MATLAB.
+# OpticalCharacterRecognition
+Implemented Optical Character Recognition using Maximum Correlation algorithm in MATLAB.
 
 Correlation conducted on templates created with alphanumberic characters
 
